@@ -317,6 +317,7 @@
 
 ## Changelog
 
+- 20200103 V2.2 Review @zhaixiaohua 补充内容
 - 20191224 V2.1 Review @zhaixiaohua 补充内容
 - 20191219 V2.0 整理收集群成员QA
 - 20191202 V1.0 初稿
